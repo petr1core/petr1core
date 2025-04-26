@@ -4,9 +4,9 @@
 
 <p>
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<strong>Frontend</strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<strong>Backend</strong><br>
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
   <a href="https://mui.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" /></a>    
-  ㅤㅤㅤㅤ<a href="https://dotnet.microsoft.com/"><img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol-700x394.png" width="65" /></a>
+  ㅤㅤ<a href="https://dotnet.microsoft.com/"><img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol-700x394.png" width="65" /></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /></a>
 </p>
   <!-- 3D Software -->
