@@ -35,7 +35,7 @@
 <div align="center">
 <div>
 <a href="http://www.github.com/petr1core"><img src="https://github-readme-activity-graph.vercel.app/graph?username=petr1core&theme=react-dark" alt="petr1core's commits graph" height="180" width="600"/></a>
-<a href="http://ww.github.com/petr1core"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petr1core&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="petr1core's most used languages" width="330"/></a>
+<a href="http://ww.github.com/petr1core"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petr1core&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="petr1core's most used languages" width="200"/></a>
 </div>
 <div>
 <a href="http://www.github.com/petr1core"><img src="https://github-readme-streak-stats.herokuapp.com/?user=petr1core&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="petr1core's commits streak" width="400"/></a> ㅤㅤ
