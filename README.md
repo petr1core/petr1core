@@ -1,37 +1,4 @@
 <div align="center">ㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/petr1core"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!"/></a></div>
-
-# 💻Tech Stack
-
-<p>
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<strong>Frontend</strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<strong>Backend</strong><br>
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
-  <a href="https://mui.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" /></a>    
-  ㅤㅤ<a href="https://dotnet.microsoft.com/"><img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol-700x394.png" width="65" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" /></a>
-</p>
-  <!-- 3D Software -->
-<div align="center">  
-  <div>
-    <p>3D Software & etc.</p>
-    <a href="https://www.adobe.com/photoshop"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" /></a>
-    <a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" /></a>
-    <a href="https://www.maxon.net/zbrush"><img src="https://maxonassets.imgix.net/images/Products/ZBrush/ZBrush-Logo-1c.png" width="36" height="36" /></a>
-    <a href="https://jangafx.com/embergen/"><img src="https://jangafx.com/media/images/logos/embergen.svg" width="36" height="36" /></a>
-    <a href="https://unity.com/"><img src="https://logo.svgcdn.com/l/unity.svg" width="36" height="36" /></a>
-  </div>
-  <!-- Socials -->
-  <div>
-    <p>Socials</p>
-    <a href="https://github.com/petr1core">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32">
-      </picture>
-    </a>
-  </div>
-</div>
-
-# 📊GitHub Stats
 <div align="center">
 <div>
 <a href="http://www.github.com/petr1core"><img src="https://github-readme-activity-graph.vercel.app/graph?username=petr1core&theme=react-dark" alt="petr1core's commits graph" height="180" width="500"/></a>
